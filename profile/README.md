@@ -1,12 +1,24 @@
-## Hi there 👋
+# Entregas
 
-<!--
+### **04/02/2024** - **Entrega Parcial 1**  
+- Documento de requisitos finalizado ( incluindo atas de reunião com o parceiro(a) ) 
+- Protótipo da tela de exercício de múltipla escolha
+- Definição dos endpoints da API  
+- Configuração do *GitHub Projects*:  
+  - Criação de todas as tarefas no Kanban (*To Do*, *In Progress*, *Done*)  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### **11/02/2024** - **Entrega Parcial 2**  
+- Protótipo da tela de exercício de múltipla escolha revisado e validado  
+- Deploy do ambiente de backend  
+- Configuração e deploy do banco de dados  
+
+---
+
+### **18/02/2024** - **Entrega Final**  
+- Aplicativo funcional (MVP - *Mínimo Produto Viável*)  
+  - Integração frontend/backend  
+  - Funcionalidades básicas operacionais  
+
+---
