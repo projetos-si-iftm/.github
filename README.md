@@ -23,4 +23,3 @@
 
 ---
 
-*Atualizações e ajustes de datas serão comunicados com antecedência via **issues** ou **discussões** no repositório.*  
