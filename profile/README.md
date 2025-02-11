@@ -20,6 +20,6 @@
 ### **18/02/2024** - **Entrega Final**  
 - Aplicativo funcional (MVP - *Mínimo Produto Viável*)  
   - Integração frontend/backend  
-  - Funcionalidades básicas operacionais  
+  - Tela de exercício de multipla escolha  
 
 ---
