@@ -3,10 +3,12 @@
 # 2025
 
 Fazer planejamento com a turma
-- Vamos trabalhar com sprints de x semanas
+- Vamos trabalhar com sprints de 2 semanas
 - Seminários: LGPD, Gameficação
-- Data da entrega final
+- Data da entrega final: 21/07/2025
 - Confirmação dos grupos
+
+---
 
 ### **04/02/2024** - **Entrega Parcial 1**  
 - Documento de requisitos finalizado ( incluindo atas de reunião com o parceiro(a) ) 
